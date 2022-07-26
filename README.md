@@ -1,0 +1,1 @@
+# Data-Cleaning-Mthod---Deleting-rows-and-columns
